@@ -5,4 +5,5 @@ import "trentmcginnis.com/days"
 func main() {
 	days.DayOne()
 	days.DayTwo()
+	days.DayThree()
 }
